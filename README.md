@@ -7,7 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
 
 
-<p align="left"> <a href="https://twitter.com/hritikr36858585" target="blank"><img src="https://img.shields.io/twitter/follow/hritikr36858585?logo=twitter&style=for-the-badge" alt="hritikr36858585" /></a> </p>
 
 - 📫 How to reach me **hritikraj8804@gmail.com**
 
