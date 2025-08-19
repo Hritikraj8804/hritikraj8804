@@ -51,13 +51,6 @@
 
 ---
 
-### 🚀 Featured Projects  
-- 🔹 [**MoodMap**](https://github.com/hritikraj8804/MoodMap) → *Sentiment Analysis project using ML to classify text into positive, negative, or neutral*  
-- 🔹 [**StudentHub Automator**](https://github.com/hritikraj8804/StudentHub-Automator) → *GitHub + Kestra powered automation for student notifications*  
-- 🔹 [**Cloud-DevOps Playground**](https://github.com/hritikraj8804) → *Practice repo for CI/CD, Docker, and Kubernetes*  
-
----
-
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hritikraj8804&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
