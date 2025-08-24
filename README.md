@@ -3,7 +3,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hritikraj8804&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+</p>
+
+<p align="center">
+  <a href="https://github.com/hritikraj8804">
     <img src="https://github-profile-trophy.vercel.app/?username=hritikraj8804&theme=onedark&no-frame=true&margin-w=5" alt="GitHub Trophies"/>
   </a>
 </p>
@@ -58,7 +61,6 @@
 </p>
 
 ---
-
 
 ### 🧩 Current Learning Roadmap  
 ✅ **DevOps:** GitHub Actions, CI/CD Pipelines, Terraform, Docker, Kubernetes  
