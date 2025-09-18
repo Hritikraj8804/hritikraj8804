@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hritik Raj</h1>
-<h3 align="center">🚀 Aspiring DevOps & AI Engineer | Passionate Open Source Developer from India</h3>
+<h3 align="center">🌍 Remote-ready | 🚀 DevOps, Cloud & AI Engineer | Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hritikraj8804&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -16,13 +16,14 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **DevOps (AWS | Docker | Kubernetes | CI/CD)**  
-- 🤖 Exploring **AI/ML** (ML Algorithms, NLP, Deep Learning)  
-- 🛠️ Hands-on with **GitHub Actions, Workflow Automation, and Cloud Services**  
-- 💡 Interested in building projects that combine **DevOps + AI**  
-- 🎯 Goal: Become a **Cloud & AI Engineer**  
+- 🌱 Currently mastering **DevOps & Cloud** (AWS | Azure | GCP | Docker | Kubernetes | Terraform | Ansible)  
+- 🤖 Exploring **AI/ML** (Machine Learning, NLP, Deep Learning, Generative AI)  
+- 🛠️ Skilled in **CI/CD pipelines, Infrastructure as Code (IaC), Workflow Automation, and Monitoring**  
+- ☁️ Experienced with **AWS Lambda, S3, EC2, GCP Cloud Run, Firebase, Azure DevOps**  
+- 💡 Passionate about building **AI-powered DevOps solutions** for automation & scalability  
+- 🌍 Looking for **Remote Opportunities** across the globe  
 - 📫 Reach me at: **hritikraj8804@gmail.com**  
-- ⚡ Fun fact: *I debug faster with coffee ☕*  
+- ⚡ Fun fact: *My code breaks only when I explain it 😅*  
 
 ---
 
@@ -35,33 +36,29 @@
 
 ---
 
-### 🛠️ Languages and Tools  
+### 🛠️ Languages, Tools & Platforms  
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  </p>
+  <!-- DevOps / Cloud -->
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/></a>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritikraj8804&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikraj8804&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <!-- Programming -->
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 🧩 Current Learning Roadmap  
-✅ **DevOps:** GitHub Actions, CI/CD Pipelines, Terraform, Docker, Kubernetes  
-✅ **AI/ML:** Data Preprocessing, Sentiment Analysis, Deep Learning, Generative AI  
-✅ **Cloud:** AWS EC2, S3, Lambda | GCP Compute Engine, Cloud Functions  
-
----
 
 ### 🌱 Contribution Graph  
 <p align="center">
